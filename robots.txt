@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: chto-takoe-depozit-v-kazino.github.io
+Sitemap: https://chto-takoe-depozit-v-kazino.github.io/sitemap.xml
